@@ -1,0 +1,9 @@
+log.strm.yandex.ru
+mc.yandex.ru
+amc.yandex.ru
+ad.adriver.ru
+media-adv.market.yandex.ru
+appmetrica.yandex.net
+startup.mobile.yandex.net
+report.appmetrica.yandex.net
+tracker-api.vk-analytics.ru
