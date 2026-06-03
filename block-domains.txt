@@ -1,12 +1,3 @@
-log.strm.yandex.ru
-mc.yandex.ru
-amc.yandex.ru
-ad.adriver.ru
-media-adv.market.yandex.ru
-appmetrica.yandex.net
-startup.mobile.yandex.net
-report.appmetrica.yandex.net
-tracker-api.vk-analytics.ru101com.com
 180hits.de
 180searchassistant.com
 1rx.io
@@ -97,6 +88,7 @@ ad.abctv.com
 ad.aboutwebservices.com
 ad.abum.com
 ad.admitad.com
+ad.adriver.ru
 ad.allboxing.ru
 ad.altervista.org
 ad.amgdgt.com
@@ -849,6 +841,7 @@ alphonso.tv
 als-svc.nytimes.com
 amazingcounters.com
 amazon-adsystem.com
+amc.yandex.ru
 americash.com
 amidsttruly.com
 amung.us
@@ -909,6 +902,7 @@ app.pendo.io
 app2.salesmanago.pl
 appboycdn.com
 applovin.com
+appmetrica.yandex.net
 appsflyer.com
 aps.hearstnp.com
 apsalar.com
@@ -2101,6 +2095,7 @@ locolava.com
 log.btopenworld.com
 log.logrocket.io
 log.pinterest.com
+log.strm.yandex.ru
 log.videocampaign.co
 logger.snackly.co
 logs.roku.com
@@ -2164,6 +2159,7 @@ max.i12.de
 maximiser.net
 maxonclick.com
 mbs.megaroticlive.com
+mc.yandex.ru
 mcdlks.com
 mcs-va.tiktok.com
 mcs-va.tiktokv.com
@@ -2173,6 +2169,7 @@ measure.office.com
 measuremap.com
 meatydime.com
 media-adrunner.mycomputer.com
+media-adv.market.yandex.ru
 media.funpic.de
 media.net
 media01.eu
@@ -2709,6 +2706,7 @@ report-2.appmetrica.webvisor.com
 report-partners.appmetrica.yandex.net
 report.ap.yandex-net.ru
 report.appmetrica.yandex.net
+report.appmetrica.yandex.net
 republika.onet.pl
 resalag.com
 rescuerhino.com
@@ -2970,6 +2968,7 @@ starkscale.com
 starrynets.com
 starsmarter.com
 startapp.com
+startup.mobile.yandex.net
 stat-track.com
 stat.cliche.se
 stat.dyna.ultraweb.hu
@@ -3208,6 +3207,7 @@ track1.viewdeos.com
 trackalyzer.com
 trackedlink.net
 trackedweb.net
+tracker-api.vk-analytics.ru101com.com
 tracker.bannerflow.com
 tracker.cdnbye.com
 tracker.colatv88xb.cc
